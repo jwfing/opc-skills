@@ -1,0 +1,11 @@
+{
+  "name": "opc-skills",
+  "description": "Personal skills collection for Claude Code — practical, hands-on workflows distilled from real use.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Junwen Feng",
+    "email": "junwen.feng@insforge.dev"
+  },
+  "license": "MIT",
+  "skills": "./skills"
+}
